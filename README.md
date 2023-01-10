@@ -24,7 +24,7 @@ For example, The gray level 0 to 7 should be classified to bin 0, gray level 8 t
 Use MLE to fit a Gaussian distribution for the value of each pixel(0-256). Perform Naive
 Bayes classifier.
 
-### HW4.
+## HW4.
 1. Logistic Regression using gradient descent, newton's method
 2. EM algorithm for unsupervised learning (MINIST classification)
 
